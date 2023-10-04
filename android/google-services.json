@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053726932775",
+    "project_id": "solarpower-a3d5e",
+    "storage_bucket": "solarpower-a3d5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053726932775:android:6d5cd13afc8ea9faa0b302",
+        "android_client_info": {
+          "package_name": "com.example.solar_power"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVRIrjDx_wqcBcXdTmTvgvfRDeQKQ1RBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
